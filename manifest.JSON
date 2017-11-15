@@ -1,0 +1,14 @@
+{
+	"sheet_name": ["Manifest"],
+	"col_name_lst": ["Name_metadata_field", "Value", "Notes"],
+	"row_lst": [
+		["publisher_name", "TalenCentrum Defensie", "naam van de publisher"],
+		["publiher_shortname", "TCD", "shortname for TalenCentrum Defensie"],
+		["Organisation", "Defensie", "Naam van de organisatie"],
+		["Email", "begrippenkader@gmail.com", "Het email adres kan gebruikt worden voor vragen"],
+		["available_datasets", [
+			["woordenboek_genie"],
+			["militaire_taalkaarten"]
+		], "Lijst van alle online datasets"]
+	]
+}

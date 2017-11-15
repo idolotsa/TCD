@@ -1,0 +1,5 @@
+{
+"sheet_name":["Manifest"],
+"col_name_lst":["Name metadata field", "Value", "Notes"],
+"row_lst":[["Dataset type", "Language Cards", "Choose from list of 6 possible dataset types."], ["Dataset name", "Militaire Taalkaarten NL-F-Som", "This name is used by the app for text labels."], ["Version number", "3.0.0", "Use Semantic Versioning: maj.min.patch (http://semver.org)."], ["Version date", 20160908, "Use inverse date notation: yyyymmdd"], ["Author", "TCD", "Name of the author or maintainer of this dataset."], ["Publisher", "TalenCentrum Defensie (Dutch Defense Language Center)", "Full name of the publisher (organisation or department name)."], ["Publisher short name", "TCD", "This psn is the folder suffix for the app folder: pub_psn"], ["Organisation", "MOD-NL/CDC/NLDA/TCD", "Organisation name where the author works."], ["E-mail", "tcd-app@gmail.com", "E-mail address for information about the data set."], ["Open Content License", "CC-BY-SA", "Creative Commons-By Atrribution-Share Alike; https://creativecommons.org"]]
+}
